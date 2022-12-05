@@ -1,0 +1,45 @@
+body, html {
+    margin: 0px;
+    background-color: #000000;
+}
+header {
+    background-color: grey;
+    /* margin: 0px; */
+    /* height: 65px; */
+    display: flex;
+    justify-content: space-between;
+}
+header ul {
+    margin: 0px;
+    padding: 0px;
+    /* height: 65px; */
+}
+
+header li {
+    /* height: 65px; */
+    display: inline;
+}
+
+header li:hover {
+    background-color: rgb(46, 84, 138);
+    /* height: 65px; */
+}
+
+#header_right_nav{ 
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+#bli{
+color: honeydew;
+text-align: center;
+}
+
+#enk{
+color: honeydew;
+text-align: center;
+}
